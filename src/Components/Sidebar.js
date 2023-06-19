@@ -52,7 +52,7 @@ function Sidebar() {
             <hr class="sidebar-divider d-none d-md-block"/>    
             <div className="rocket">
           <img
-            className="sidebar-card-illustration mb-2"
+            className="sidebar-card-illustration mb-1"
             src={rocket}
             alt="..."
           />
