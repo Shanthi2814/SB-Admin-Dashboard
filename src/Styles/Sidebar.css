@@ -1,0 +1,88 @@
+.sidebar{
+    width: 301px;
+    padding: 0;
+    background-color: rgb(73, 67, 246);
+    color: white;
+    margin-top: 0;
+    height: 100vh;
+   
+    
+}
+.sbadmin{
+    margin-top: 30px;
+}
+.nav-item{
+    margin-top: 30px;
+}
+.rocket img{
+    display: flex;
+    width: 100px;
+    padding: 10px;
+    align-items: center;
+
+}
+
+
+/* *{
+    margin: 0;
+   
+    
+}
+.sidebar{
+    width: 270px;
+    height: 100vh;
+    background-color: rgb(110, 140, 239);
+    color: white;
+    padding: 30px;
+
+}
+.sidebar-brand-text{
+    width: 250px;
+    height: 50%;
+    font-size:20px;
+    text-align: center;
+    
+}
+.compontents{
+    margin-top: 20px;
+    font-weight: 500;
+}
+.utilities{
+    margin-top: 40px;
+    font-weight:500;
+}
+.pages{
+    margin-top: 20px;
+    font-weight:400;
+}
+.charts{
+    margin-top: 40px;
+    font-weight:400;
+}
+.tables{
+    margin-top: 40px;
+    font-weight:400;
+
+}
+.sidebar-card-illustration{
+    width: 50px;
+    height: 80px;
+}
+p .text-center{
+    display: inline;
+    margin-top: 10px;
+}
+
+
+
+.sidebar-card img {
+    display: inline-block;
+    align-items:center;
+    height: 50px;
+    width: 60px;
+    padding-left:10px;
+    rotate: 10deg;
+    margin-top: 30px;
+}
+
+ */
